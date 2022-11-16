@@ -1,2 +1,3 @@
 # natours
-A Pure CSS design. without using js. scss compilation done
+##### A Pure CSS design. without using js.
+#### Live link: 
