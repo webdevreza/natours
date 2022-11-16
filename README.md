@@ -1,3 +1,3 @@
-# natours
+# Natours
 ##### A Pure CSS design. without using js.
-#### Live link: 
+#### Live link: https://rezaul-karim-pstu.github.io/natours/
